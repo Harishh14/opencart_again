@@ -1,0 +1,21 @@
+HP@DESKTOP-FE3AO5J MINGW64 /d/automation/Revision Ecom/opencart_again (master)
+$ git init
+Initialized empty Git repository in D:/automation/Revision Ecom/opencart_again/.
+git/
+{
+HP@DESKTOP-FE3AO5J MINGW64 /d/automation/Revision Ecom/opencart_again (master)
+$ git config --global user.name "Harish"
+
+HP@DESKTOP-FE3AO5J MINGW64 /d/automation/Revision Ecom/opencart_again (master)
+$ git config --global user.email "sonijoy92@gmail.com"
+
+only one time.
+}
+
+$ git add -A
+
+$ git commit -m "Again"
+
+$ git remote add origin "https://github.com/Harishh14/opencart_again.git"
+
+$ git push origin master
