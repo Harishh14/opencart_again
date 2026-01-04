@@ -20,7 +20,7 @@
 					<version>3.5.4</version>
 
 					<configuration>
-						<suiteXmlFiles>parallel.xml</suiteXmlFiles>
+						<suiteXmlFiles>Linux.xml</suiteXmlFiles>
 					</configuration>
 				</plugin>
 
