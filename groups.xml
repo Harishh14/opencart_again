@@ -22,8 +22,11 @@
 
 		<classes>
 			<!--<class name="Testcases.TC_003_datalogin" /> -->
-			<class name="Testcases.TC_002_Logintest" />
-			<class name="Testcases.TC_001_Registration" />
+		<!--	<class name="Testcases.TC_002_Logintest" />-->
+			<!--<class name="Testcases.TC_001_Registration" />-->
+<!-- 			<class name="Testcases.TC_004_SearchProduct" />-->
+<!-- <class name="Testcases.TC_005_Add_To_Cart" />-->
+			 <class name="Testcases.TC_006_End_To_End" />
 
 		</classes>
 	</test> <!--

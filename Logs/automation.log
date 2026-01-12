@@ -1,38 +1,747 @@
-2026-01-04 16:48:58 [main] INFO  Testcases.TC_001_Registration - Running tests on LOCAL machine
-2026-01-04 16:49:01 [main] INFO  Testcases.TC_001_Registration - ********** TC_001_Registration Started **********
-2026-01-04 16:49:01 [main] INFO  Testcases.TC_001_Registration - Homepage object created
-2026-01-04 16:49:01 [main] INFO  Testcases.TC_001_Registration - Clicked on My Account
-2026-01-04 16:49:19 [main] INFO  Testcases.TC_001_Registration - Clicked on Register option
-2026-01-04 16:49:20 [main] INFO  Testcases.TC_001_Registration - Registration page object created
-2026-01-04 16:50:29 [main] INFO  Testcases.TC_001_Registration - Running tests on LOCAL machine
-2026-01-04 16:50:32 [main] INFO  Testcases.TC_001_Registration - ********** TC_001_Registration Started **********
-2026-01-04 16:50:32 [main] INFO  Testcases.TC_001_Registration - Homepage object created
-2026-01-04 16:50:32 [main] INFO  Testcases.TC_001_Registration - Clicked on My Account
-2026-01-04 16:50:33 [main] INFO  Testcases.TC_001_Registration - Clicked on Register option
-2026-01-04 16:50:33 [main] INFO  Testcases.TC_001_Registration - Registration page object created
-2026-01-04 16:50:34 [main] INFO  Testcases.TC_001_Registration - Entered First Name
-2026-01-04 16:50:34 [main] INFO  Testcases.TC_001_Registration - Entered Last Name
-2026-01-04 16:50:34 [main] INFO  Testcases.TC_001_Registration - Entered Email: aCcVQb@gmail.com
-2026-01-04 16:50:34 [main] INFO  Testcases.TC_001_Registration - Entered Telephone: 7395295866
-2026-01-04 16:50:34 [main] INFO  Testcases.TC_001_Registration - Entered Password and Confirm Password
-2026-01-04 16:50:35 [main] INFO  Testcases.TC_001_Registration - Selected Newsletter: NO
-2026-01-04 16:50:35 [main] INFO  Testcases.TC_001_Registration - Accepted Privacy Policy
-2026-01-04 16:50:36 [main] INFO  Testcases.TC_001_Registration - Clicked Continue button
-2026-01-04 16:50:36 [main] INFO  Testcases.TC_001_Registration - Registration successful – Test Passed
-2026-01-04 16:50:36 [main] INFO  Testcases.TC_001_Registration - ********** TC_001_Registration Finished **********
-2026-01-04 16:51:39 [main] INFO  Testcases.TC_001_Registration - Running tests on LOCAL machine
-2026-01-04 16:51:44 [main] INFO  Testcases.TC_001_Registration - ********** TC_001_Registration Started **********
-2026-01-04 16:51:44 [main] INFO  Testcases.TC_001_Registration - Homepage object created
-2026-01-04 16:51:44 [main] INFO  Testcases.TC_001_Registration - Clicked on My Account
-2026-01-04 16:51:45 [main] INFO  Testcases.TC_001_Registration - Clicked on Register option
-2026-01-04 16:51:45 [main] INFO  Testcases.TC_001_Registration - Registration page object created
-2026-01-04 16:51:45 [main] INFO  Testcases.TC_001_Registration - Entered First Name
-2026-01-04 16:51:45 [main] INFO  Testcases.TC_001_Registration - Entered Last Name
-2026-01-04 16:51:45 [main] INFO  Testcases.TC_001_Registration - Entered Email: soUTmJ@gmail.com
-2026-01-04 16:51:46 [main] INFO  Testcases.TC_001_Registration - Entered Telephone: 1341734149
-2026-01-04 16:51:46 [main] INFO  Testcases.TC_001_Registration - Entered Password and Confirm Password
-2026-01-04 16:51:46 [main] INFO  Testcases.TC_001_Registration - Selected Newsletter: NO
-2026-01-04 16:51:46 [main] INFO  Testcases.TC_001_Registration - Accepted Privacy Policy
-2026-01-04 16:51:47 [main] INFO  Testcases.TC_001_Registration - Clicked Continue button
-2026-01-04 16:51:47 [main] INFO  Testcases.TC_001_Registration - Registration successful – Test Passed
-2026-01-04 16:51:47 [main] INFO  Testcases.TC_001_Registration - ********** TC_001_Registration Finished **********
+2026-01-12 10:00:00 [main] INFO  Testcases.TC_005_Add_To_Cart - Running tests on LOCAL machine
+2026-01-12 10:00:52 [main] INFO  Testcases.TC_005_Add_To_Cart - Running tests on LOCAL machine
+2026-01-12 11:04:37 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 11:04:39 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_001_Registration Started **********
+2026-01-12 11:04:39 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 11:04:39 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 11:04:40 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 11:04:40 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 11:04:40 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 11:04:40 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 11:04:40 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: DmWNnW@gmail.com
+2026-01-12 11:04:40 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 1267679868
+2026-01-12 11:04:41 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 11:04:41 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 11:04:41 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 11:04:42 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 11:08:16 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 11:08:19 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_001_Registration Started **********
+2026-01-12 11:08:19 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 11:08:19 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 11:08:21 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 11:08:21 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 11:08:21 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 11:08:21 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 11:08:22 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: jLvpFM@gmail.com
+2026-01-12 11:08:22 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 5884434362
+2026-01-12 11:08:23 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 11:08:23 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 11:08:23 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 11:08:25 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 11:14:52 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 11:14:54 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_001_Registration Started **********
+2026-01-12 11:14:54 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 11:14:54 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 11:14:55 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 11:14:55 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 11:14:56 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 11:14:56 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 11:14:56 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: OTpyiE@gmail.com
+2026-01-12 11:14:56 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 6941127654
+2026-01-12 11:14:57 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 11:14:57 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 11:14:57 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 11:14:58 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 11:18:03 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 11:18:06 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_001_Registration Started **********
+2026-01-12 11:18:06 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 11:18:07 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 11:18:08 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 11:18:08 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 11:18:08 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 11:18:09 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 11:18:09 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: GYBnUf@gmail.com
+2026-01-12 11:18:09 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 7077339910
+2026-01-12 11:18:09 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 11:18:10 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 11:18:10 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 11:18:11 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 11:20:45 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 11:20:47 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_001_Registration Started **********
+2026-01-12 11:20:47 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 11:20:47 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 11:20:48 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 11:20:48 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 11:20:48 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 11:20:49 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 11:20:49 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: QYwZKE@gmail.com
+2026-01-12 11:20:49 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 0385130653
+2026-01-12 11:20:49 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 11:20:49 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 11:20:49 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 11:20:50 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 11:35:28 [main] INFO  Testcases.TC_005_Add_To_Cart - Running tests on LOCAL machine
+2026-01-12 11:56:26 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 11:56:28 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Started **********
+2026-01-12 11:56:28 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 11:56:29 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 11:56:31 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 11:56:32 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 11:56:34 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 11:56:34 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 11:56:35 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: nWeHIt@gmail.com
+2026-01-12 11:56:36 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 9330402479
+2026-01-12 11:56:37 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 11:56:38 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 11:56:38 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 11:56:40 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 11:56:42 [main] INFO  Testcases.TC_006_End_To_End - Registration successful – Test Passed
+2026-01-12 11:56:42 [main] INFO  Testcases.TC_006_End_To_End - ********** Registration Completed **********
+2026-01-12 11:56:43 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Logout / Continue to Login
+2026-01-12 11:56:54 [main] ERROR Testcases.TC_006_End_To_End - Exception occurred in End To End test: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-email']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a911fe741d6d6432bdc374801c3f50d5, findElement {using=xpath, value=//input[@id='input-email']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64783}, goog:processID: 8108, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64783/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a911fe741d6d6432bdc374801c3f50d5
+2026-01-12 11:58:50 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 11:58:52 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Started **********
+2026-01-12 11:58:52 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 11:58:54 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 11:58:55 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 11:58:57 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 11:58:58 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 11:58:59 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 11:58:59 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: zYUUTL@gmail.com
+2026-01-12 11:59:00 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 4370770608
+2026-01-12 11:59:01 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 11:59:02 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 11:59:03 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 11:59:04 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 11:59:06 [main] INFO  Testcases.TC_006_End_To_End - Registration successful – Test Passed
+2026-01-12 11:59:06 [main] INFO  Testcases.TC_006_End_To_End - ********** Registration Completed **********
+2026-01-12 11:59:07 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Logout / Continue to Login
+2026-01-12 11:59:11 [main] INFO  Testcases.TC_006_End_To_End - Logged in successfully with registered credentials
+2026-01-12 11:59:13 [main] INFO  Testcases.TC_006_End_To_End - Entered product in search box
+2026-01-12 11:59:14 [main] INFO  Testcases.TC_006_End_To_End - Clicked search button
+2026-01-12 11:59:16 [main] INFO  Testcases.TC_006_End_To_End - Product HP LP3065 is available
+2026-01-12 11:59:18 [main] INFO  Testcases.TC_006_End_To_End - Entered quantity 1
+2026-01-12 11:59:18 [main] INFO  Testcases.TC_006_End_To_End - Clicked Add to Cart
+2026-01-12 11:59:18 [main] INFO  Testcases.TC_006_End_To_End - Add to cart success message verified
+2026-01-12 11:59:20 [main] INFO  Testcases.TC_006_End_To_End - Opened cart dropdown
+2026-01-12 11:59:31 [main] ERROR Testcases.TC_006_End_To_End - Exception occurred in End To End test: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='accordion']/following::a[text()='Checkout']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [132b088f2ec04597a0b433578ea53485, findElement {value=//div[@id='accordion']/following::a[text()='Checkout'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64818}, goog:processID: 14988, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64818/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 132b088f2ec04597a0b433578ea53485
+2026-01-12 12:02:50 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 12:02:53 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Started **********
+2026-01-12 12:02:53 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 12:02:54 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 12:02:56 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 12:02:58 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 12:02:59 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 12:03:00 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 12:03:00 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: DoZXYv@gmail.com
+2026-01-12 12:03:01 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 4581111888
+2026-01-12 12:03:02 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 12:03:03 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 12:03:04 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 12:03:05 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 12:03:07 [main] INFO  Testcases.TC_006_End_To_End - Registration successful – Test Passed
+2026-01-12 12:03:07 [main] INFO  Testcases.TC_006_End_To_End - ********** Registration Completed **********
+2026-01-12 12:03:08 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Logout / Continue to Login
+2026-01-12 12:03:13 [main] INFO  Testcases.TC_006_End_To_End - Logged in successfully with registered credentials
+2026-01-12 12:03:15 [main] INFO  Testcases.TC_006_End_To_End - Entered product in search box
+2026-01-12 12:03:16 [main] INFO  Testcases.TC_006_End_To_End - Clicked search button
+2026-01-12 12:03:18 [main] INFO  Testcases.TC_006_End_To_End - Product HP LP3065 is available
+2026-01-12 12:03:20 [main] INFO  Testcases.TC_006_End_To_End - Entered quantity 1
+2026-01-12 12:03:20 [main] INFO  Testcases.TC_006_End_To_End - Clicked Add to Cart
+2026-01-12 12:03:30 [main] ERROR Testcases.TC_006_End_To_End - Exception occurred in End To End test: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(),'Success: You have added ')]"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1f71acafedfa1250f8c54b2c82f2d3ad, findElement {using=xpath, value=//div[contains(text(),'Success: You have added ')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64901}, goog:processID: 13868, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64901/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1f71acafedfa1250f8c54b2c82f2d3ad
+2026-01-12 12:03:59 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 12:04:01 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Started **********
+2026-01-12 12:04:01 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 12:04:02 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 12:04:04 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 12:04:06 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 12:04:07 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 12:04:08 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 12:04:08 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: RfaJbp@gmail.com
+2026-01-12 12:04:09 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 9850142087
+2026-01-12 12:04:10 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 12:04:11 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 12:04:12 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 12:04:14 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 12:04:16 [main] INFO  Testcases.TC_006_End_To_End - Registration successful – Test Passed
+2026-01-12 12:04:16 [main] INFO  Testcases.TC_006_End_To_End - ********** Registration Completed **********
+2026-01-12 12:04:16 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Logout / Continue to Login
+2026-01-12 12:04:21 [main] INFO  Testcases.TC_006_End_To_End - Logged in successfully with registered credentials
+2026-01-12 12:04:23 [main] INFO  Testcases.TC_006_End_To_End - Entered product in search box
+2026-01-12 12:04:24 [main] INFO  Testcases.TC_006_End_To_End - Clicked search button
+2026-01-12 12:04:26 [main] INFO  Testcases.TC_006_End_To_End - Product HP LP3065 is available
+2026-01-12 12:04:28 [main] INFO  Testcases.TC_006_End_To_End - Entered quantity 1
+2026-01-12 12:04:29 [main] INFO  Testcases.TC_006_End_To_End - Clicked Add to Cart
+2026-01-12 12:04:39 [main] ERROR Testcases.TC_006_End_To_End - Exception occurred in End To End test: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(),'Success: You have added ')]"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f02e8450778ae34954595c10c410729d, findElement {using=xpath, value=//div[contains(text(),'Success: You have added ')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64964}, goog:processID: 12536, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64964/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f02e8450778ae34954595c10c410729d
+2026-01-12 12:05:44 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 12:05:46 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Started **********
+2026-01-12 12:05:46 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 12:05:47 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 12:05:49 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 12:05:51 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 12:05:52 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 12:05:52 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 12:05:53 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: dZPhqG@gmail.com
+2026-01-12 12:05:54 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 2567399832
+2026-01-12 12:05:55 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 12:05:56 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 12:05:56 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 12:05:58 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 12:06:00 [main] INFO  Testcases.TC_006_End_To_End - Registration successful – Test Passed
+2026-01-12 12:06:00 [main] INFO  Testcases.TC_006_End_To_End - ********** Registration Completed **********
+2026-01-12 12:06:01 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Logout / Continue to Login
+2026-01-12 12:06:06 [main] INFO  Testcases.TC_006_End_To_End - Logged in successfully with registered credentials
+2026-01-12 12:06:08 [main] INFO  Testcases.TC_006_End_To_End - Entered product in search box
+2026-01-12 12:06:09 [main] INFO  Testcases.TC_006_End_To_End - Clicked search button
+2026-01-12 12:06:10 [main] INFO  Testcases.TC_006_End_To_End - Product HP LP3065 is available
+2026-01-12 12:06:13 [main] INFO  Testcases.TC_006_End_To_End - Entered quantity 1
+2026-01-12 12:06:13 [main] INFO  Testcases.TC_006_End_To_End - Clicked Add to Cart
+2026-01-12 12:06:13 [main] INFO  Testcases.TC_006_End_To_End - Add to cart success message verified
+2026-01-12 12:06:15 [main] INFO  Testcases.TC_006_End_To_End - Opened cart dropdown
+2026-01-12 12:06:26 [main] ERROR Testcases.TC_006_End_To_End - Exception occurred in End To End test: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='accordion']/following::a[text()='Checkout']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [43515c96458fe6bac1f2501b4b933ff0, findElement {using=xpath, value=//div[@id='accordion']/following::a[text()='Checkout']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65143}, goog:processID: 5544, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65143/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 43515c96458fe6bac1f2501b4b933ff0
+2026-01-12 12:12:08 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 12:12:11 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Started **********
+2026-01-12 12:12:11 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 12:12:13 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 12:12:15 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 12:12:16 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 12:12:17 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 12:12:18 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 12:12:19 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: IiYcQh@gmail.com
+2026-01-12 12:12:19 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 4921720221
+2026-01-12 12:12:20 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 12:12:21 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 12:12:22 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 12:12:24 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 12:12:26 [main] INFO  Testcases.TC_006_End_To_End - Registration successful – Test Passed
+2026-01-12 12:12:26 [main] INFO  Testcases.TC_006_End_To_End - ********** Registration Completed **********
+2026-01-12 12:12:27 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Logout / Continue to Login
+2026-01-12 12:12:31 [main] INFO  Testcases.TC_006_End_To_End - Logged in successfully with registered credentials
+2026-01-12 12:12:34 [main] INFO  Testcases.TC_006_End_To_End - Entered product in search box
+2026-01-12 12:12:35 [main] INFO  Testcases.TC_006_End_To_End - Clicked search button
+2026-01-12 12:12:36 [main] INFO  Testcases.TC_006_End_To_End - Product HP LP3065 is available
+2026-01-12 12:12:39 [main] INFO  Testcases.TC_006_End_To_End - Entered quantity 1
+2026-01-12 12:12:39 [main] INFO  Testcases.TC_006_End_To_End - Clicked Add to Cart
+2026-01-12 12:12:39 [main] INFO  Testcases.TC_006_End_To_End - Add to cart success message verified
+2026-01-12 12:12:41 [main] INFO  Testcases.TC_006_End_To_End - Opened cart dropdown
+2026-01-12 12:12:45 [main] INFO  Testcases.TC_006_End_To_End - Clicked Checkout button
+2026-01-12 12:12:48 [main] INFO  Testcases.TC_006_End_To_End - Entered Billing details
+2026-01-12 12:12:50 [main] INFO  Testcases.TC_006_End_To_End - Selected Country India (ignore case)
+2026-01-12 12:12:52 [main] INFO  Testcases.TC_006_End_To_End - Selected State Haryana (ignore case)
+2026-01-12 12:12:53 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue Billing
+2026-01-12 12:12:55 [main] INFO  Testcases.TC_006_End_To_End - Continued Delivery Details
+2026-01-12 12:12:56 [main] INFO  Testcases.TC_006_End_To_End - Entered delivery comment
+2026-01-12 12:12:57 [main] INFO  Testcases.TC_006_End_To_End - Continued Delivery Method
+2026-01-12 12:12:59 [main] INFO  Testcases.TC_006_End_To_End - Accepted Terms & Continued Payment
+2026-01-12 12:13:00 [main] INFO  Testcases.TC_006_End_To_End - Clicked Confirm Order
+2026-01-12 12:13:03 [main] INFO  Testcases.TC_006_End_To_End - ********** Order Placed Successfully **********
+2026-01-12 12:13:03 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Finished **********
+2026-01-12 12:14:46 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 12:14:48 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Started **********
+2026-01-12 12:14:48 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 12:14:49 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 12:14:51 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 12:14:53 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 12:14:54 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 12:14:54 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 12:14:55 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: ePHKJY@gmail.com
+2026-01-12 12:14:56 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 8025096343
+2026-01-12 12:14:57 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 12:14:58 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 12:14:58 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 12:15:00 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 12:15:02 [main] INFO  Testcases.TC_006_End_To_End - Registration successful – Test Passed
+2026-01-12 12:15:02 [main] INFO  Testcases.TC_006_End_To_End - ********** Registration Completed **********
+2026-01-12 12:15:04 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Logout / Continue to Login
+2026-01-12 12:15:09 [main] INFO  Testcases.TC_006_End_To_End - Logged in successfully with registered credentials
+2026-01-12 12:15:11 [main] INFO  Testcases.TC_006_End_To_End - Entered product in search box
+2026-01-12 12:15:12 [main] INFO  Testcases.TC_006_End_To_End - Clicked search button
+2026-01-12 12:15:14 [main] INFO  Testcases.TC_006_End_To_End - Product HP LP3065 is available
+2026-01-12 12:15:16 [main] INFO  Testcases.TC_006_End_To_End - Entered quantity 1
+2026-01-12 12:15:17 [main] INFO  Testcases.TC_006_End_To_End - Clicked Add to Cart
+2026-01-12 12:15:17 [main] INFO  Testcases.TC_006_End_To_End - Add to cart success message verified
+2026-01-12 12:15:18 [main] INFO  Testcases.TC_006_End_To_End - Opened cart dropdown
+2026-01-12 12:15:22 [main] INFO  Testcases.TC_006_End_To_End - Clicked Checkout button
+2026-01-12 12:15:25 [main] INFO  Testcases.TC_006_End_To_End - Entered Billing details
+2026-01-12 12:15:28 [main] INFO  Testcases.TC_006_End_To_End - Selected Country India (ignore case)
+2026-01-12 12:15:29 [main] INFO  Testcases.TC_006_End_To_End - Selected State Haryana (ignore case)
+2026-01-12 12:15:31 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue Billing
+2026-01-12 12:15:32 [main] INFO  Testcases.TC_006_End_To_End - Continued Delivery Details
+2026-01-12 12:15:34 [main] INFO  Testcases.TC_006_End_To_End - Entered delivery comment
+2026-01-12 12:15:35 [main] INFO  Testcases.TC_006_End_To_End - Continued Delivery Method
+2026-01-12 12:15:37 [main] INFO  Testcases.TC_006_End_To_End - Accepted Terms & Continued Payment
+2026-01-12 12:15:38 [main] INFO  Testcases.TC_006_End_To_End - Clicked Confirm Order
+2026-01-12 12:15:41 [main] INFO  Testcases.TC_006_End_To_End - ********** Order Placed Successfully **********
+2026-01-12 12:15:41 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Finished **********
+2026-01-12 12:28:44 [main] INFO  Testcases.TC_005_Add_To_Cart - Running tests on LOCAL machine
+2026-01-12 12:29:33 [main] INFO  Testcases.TC_005_Add_To_Cart - Running tests on LOCAL machine
+2026-01-12 13:10:23 [main] INFO  Testcases.TC_005_Add_To_Cart - Running tests on LOCAL machine
+2026-01-12 13:11:46 [main] INFO  Testcases.TC_005_Add_To_Cart - Running tests on LOCAL machine
+2026-01-12 13:12:29 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 13:12:31 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Started **********
+2026-01-12 13:12:41 [main] ERROR Testcases.TC_006_End_To_End - Exception: stale element reference: stale element not found in the current frame
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cce8348e69ea315de6183c9eaeda2097, isElementDisplayed {id=f.60CA89461D4056CBD056EB0A7C60E394.d.5C81FE593C98A5E2471A909A2168A5CE.e.194}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51295}, goog:processID: 17552, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51295/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (cce8348e69ea315de6183c9eaeda2097)] -> xpath: //div[contains(text(),'Success: You have added ')]]
+Session ID: cce8348e69ea315de6183c9eaeda2097
+2026-01-12 13:13:54 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 13:13:57 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Started **********
+2026-01-12 13:14:17 [main] ERROR Testcases.TC_006_End_To_End - Exception: element not interactable
+  (Session info: chrome=143.0.7499.170)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [36b57d9f08e07da775d567e75b80e4b9, clickElement {id=f.5AE6E8367304EDD1996D07D1F0F69B70.d.60A08E49CA90658F2EC8968E3D2367BC.e.185}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51367}, goog:processID: 3968, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51367/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (36b57d9f08e07da775d567e75b80e4b9)] -> xpath: //div[@id='cart']//p/a[1]]
+Session ID: 36b57d9f08e07da775d567e75b80e4b9
+2026-01-12 13:14:39 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 13:14:41 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Started **********
+2026-01-12 13:14:41 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 13:14:42 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 13:14:45 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 13:14:46 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 13:14:47 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 13:14:48 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 13:14:49 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: fHimsk@gmail.com
+2026-01-12 13:14:49 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 6531608897
+2026-01-12 13:14:50 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 13:14:51 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 13:14:52 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 13:14:54 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 13:14:56 [main] INFO  Testcases.TC_006_End_To_End - Registration successful – Test Passed
+2026-01-12 13:14:56 [main] INFO  Testcases.TC_006_End_To_End - ********** Registration Completed **********
+2026-01-12 13:14:57 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Logout / Continue to Login
+2026-01-12 13:15:01 [main] INFO  Testcases.TC_006_End_To_End - Logged in successfully with registered credentials
+2026-01-12 13:15:08 [main] INFO  Testcases.TC_006_End_To_End - Entered product in search box
+2026-01-12 13:15:09 [main] INFO  Testcases.TC_006_End_To_End - Clicked search button
+2026-01-12 13:15:10 [main] INFO  Testcases.TC_006_End_To_End - Product HP LP3065 is available
+2026-01-12 13:15:13 [main] INFO  Testcases.TC_006_End_To_End - Entered quantity 1
+2026-01-12 13:15:13 [main] INFO  Testcases.TC_006_End_To_End - Clicked Add to Cart
+2026-01-12 13:15:13 [main] INFO  Testcases.TC_006_End_To_End - Add to cart success message verified
+2026-01-12 13:15:15 [main] INFO  Testcases.TC_006_End_To_End - Opened cart dropdown
+2026-01-12 13:15:19 [main] INFO  Testcases.TC_006_End_To_End - Clicked Checkout button
+2026-01-12 13:15:22 [main] INFO  Testcases.TC_006_End_To_End - Entered Billing details
+2026-01-12 13:15:24 [main] INFO  Testcases.TC_006_End_To_End - Selected Country India (ignore case)
+2026-01-12 13:15:26 [main] INFO  Testcases.TC_006_End_To_End - Selected State Haryana (ignore case)
+2026-01-12 13:15:27 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue Billing
+2026-01-12 13:15:29 [main] INFO  Testcases.TC_006_End_To_End - Continued Delivery Details
+2026-01-12 13:15:30 [main] INFO  Testcases.TC_006_End_To_End - Entered delivery comment
+2026-01-12 13:15:31 [main] INFO  Testcases.TC_006_End_To_End - Continued Delivery Method
+2026-01-12 13:15:33 [main] INFO  Testcases.TC_006_End_To_End - Accepted Terms & Continued Payment
+2026-01-12 13:15:34 [main] INFO  Testcases.TC_006_End_To_End - Clicked Confirm Order
+2026-01-12 13:15:37 [main] INFO  Testcases.TC_006_End_To_End - ********** Order Placed Successfully **********
+2026-01-12 13:15:37 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Finished **********
+2026-01-12 14:59:29 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 14:59:31 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Started **********
+2026-01-12 14:59:31 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 14:59:33 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 14:59:35 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 14:59:36 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 14:59:37 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 14:59:38 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 14:59:39 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: BjvcRm@gmail.com
+2026-01-12 14:59:40 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 3028040620
+2026-01-12 14:59:41 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 14:59:42 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 14:59:42 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 14:59:44 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 14:59:46 [main] INFO  Testcases.TC_006_End_To_End - Registration successful – Test Passed
+2026-01-12 14:59:46 [main] INFO  Testcases.TC_006_End_To_End - ********** Registration Completed **********
+2026-01-12 14:59:47 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Logout / Continue to Login
+2026-01-12 14:59:51 [main] INFO  Testcases.TC_006_End_To_End - Logged in successfully with registered credentials
+2026-01-12 14:59:54 [main] INFO  Testcases.TC_006_End_To_End - Entered product in search box
+2026-01-12 14:59:55 [main] INFO  Testcases.TC_006_End_To_End - Clicked search button
+2026-01-12 14:59:57 [main] INFO  Testcases.TC_006_End_To_End - Product HP LP3065 is available
+2026-01-12 15:00:00 [main] INFO  Testcases.TC_006_End_To_End - Entered quantity 1
+2026-01-12 15:00:00 [main] INFO  Testcases.TC_006_End_To_End - Clicked Add to Cart
+2026-01-12 15:00:10 [main] ERROR Testcases.TC_006_End_To_End - Exception occurred in End To End test: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(),'Success: You have added ')]"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [77fe905211d6d1a2466b29d50637f094, findElement {using=xpath, value=//div[contains(text(),'Success: You have added ')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53211}, goog:processID: 17544, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53211/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 77fe905211d6d1a2466b29d50637f094
+2026-01-12 15:01:43 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 15:01:45 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Started **********
+2026-01-12 15:01:46 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 15:01:47 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 15:01:49 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 15:01:50 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 15:01:52 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 15:01:52 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 15:01:53 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: WIQrFo@gmail.com
+2026-01-12 15:01:54 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 2466622334
+2026-01-12 15:01:55 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 15:01:56 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 15:01:57 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 15:01:59 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 15:02:01 [main] INFO  Testcases.TC_006_End_To_End - Registration successful – Test Passed
+2026-01-12 15:02:01 [main] INFO  Testcases.TC_006_End_To_End - ********** Registration Completed **********
+2026-01-12 15:02:01 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Logout / Continue to Login
+2026-01-12 15:02:06 [main] INFO  Testcases.TC_006_End_To_End - Logged in successfully with registered credentials
+2026-01-12 15:02:08 [main] INFO  Testcases.TC_006_End_To_End - Entered product in search box
+2026-01-12 15:02:09 [main] INFO  Testcases.TC_006_End_To_End - Clicked search button
+2026-01-12 15:02:11 [main] INFO  Testcases.TC_006_End_To_End - Product HP LP3065 is available
+2026-01-12 15:02:13 [main] INFO  Testcases.TC_006_End_To_End - Entered quantity 1
+2026-01-12 15:02:14 [main] INFO  Testcases.TC_006_End_To_End - Clicked Add to Cart
+2026-01-12 15:02:14 [main] INFO  Testcases.TC_006_End_To_End - Add to cart success message verified
+2026-01-12 15:02:16 [main] INFO  Testcases.TC_006_End_To_End - Opened cart dropdown
+2026-01-12 15:02:20 [main] INFO  Testcases.TC_006_End_To_End - Clicked Checkout button
+2026-01-12 15:02:23 [main] INFO  Testcases.TC_006_End_To_End - Entered Billing details
+2026-01-12 15:02:26 [main] INFO  Testcases.TC_006_End_To_End - Selected Country India (ignore case)
+2026-01-12 15:02:27 [main] INFO  Testcases.TC_006_End_To_End - Selected State Haryana (ignore case)
+2026-01-12 15:02:29 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue Billing
+2026-01-12 15:02:30 [main] INFO  Testcases.TC_006_End_To_End - Continued Delivery Details
+2026-01-12 15:02:32 [main] INFO  Testcases.TC_006_End_To_End - Entered delivery comment
+2026-01-12 15:02:33 [main] INFO  Testcases.TC_006_End_To_End - Continued Delivery Method
+2026-01-12 15:02:35 [main] INFO  Testcases.TC_006_End_To_End - Accepted Terms & Continued Payment
+2026-01-12 15:09:00 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 15:09:03 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Started **********
+2026-01-12 15:09:03 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 15:09:04 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 15:09:06 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 15:09:08 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 15:09:09 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 15:09:10 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 15:09:10 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: DxgAxj@gmail.com
+2026-01-12 15:09:11 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 0636296455
+2026-01-12 15:09:12 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 15:09:13 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 15:09:14 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 15:09:16 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 15:09:18 [main] INFO  Testcases.TC_006_End_To_End - Registration successful – Test Passed
+2026-01-12 15:09:18 [main] INFO  Testcases.TC_006_End_To_End - ********** Registration Completed **********
+2026-01-12 15:09:18 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Logout / Continue to Login
+2026-01-12 15:09:24 [main] INFO  Testcases.TC_006_End_To_End - Logged in successfully with registered credentials
+2026-01-12 15:09:26 [main] INFO  Testcases.TC_006_End_To_End - Entered product in search box
+2026-01-12 15:09:27 [main] INFO  Testcases.TC_006_End_To_End - Clicked search button
+2026-01-12 15:09:29 [main] INFO  Testcases.TC_006_End_To_End - Product HP LP3065 is available
+2026-01-12 15:09:31 [main] INFO  Testcases.TC_006_End_To_End - Entered quantity 1
+2026-01-12 15:09:31 [main] INFO  Testcases.TC_006_End_To_End - Clicked Add to Cart
+2026-01-12 15:09:41 [main] ERROR Testcases.TC_006_End_To_End - Exception occurred in End To End test: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(),'Success: You have added ')]"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [016aaecac0927ec7ec199a7e4774e2e4, findElement {using=xpath, value=//div[contains(text(),'Success: You have added ')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53286}, goog:processID: 18696, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53286/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 016aaecac0927ec7ec199a7e4774e2e4
+2026-01-12 15:10:36 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 15:10:38 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Started **********
+2026-01-12 15:10:38 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 15:10:40 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 15:10:42 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 15:10:43 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 15:10:45 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 15:10:45 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 15:10:46 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: Nnethm@gmail.com
+2026-01-12 15:10:47 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 9483843182
+2026-01-12 15:10:48 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 15:10:49 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 15:10:50 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 15:10:51 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 15:10:53 [main] INFO  Testcases.TC_006_End_To_End - Registration successful – Test Passed
+2026-01-12 15:10:53 [main] INFO  Testcases.TC_006_End_To_End - ********** Registration Completed **********
+2026-01-12 15:10:54 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Logout / Continue to Login
+2026-01-12 15:11:00 [main] INFO  Testcases.TC_006_End_To_End - Logged in successfully with registered credentials
+2026-01-12 15:11:02 [main] INFO  Testcases.TC_006_End_To_End - Entered product in search box
+2026-01-12 15:11:03 [main] INFO  Testcases.TC_006_End_To_End - Clicked search button
+2026-01-12 15:11:05 [main] INFO  Testcases.TC_006_End_To_End - Product HP LP3065 is available
+2026-01-12 15:11:07 [main] INFO  Testcases.TC_006_End_To_End - Entered quantity 1
+2026-01-12 15:11:08 [main] INFO  Testcases.TC_006_End_To_End - Clicked Add to Cart
+2026-01-12 15:11:08 [main] INFO  Testcases.TC_006_End_To_End - Add to cart success message verified
+2026-01-12 15:11:10 [main] INFO  Testcases.TC_006_End_To_End - Opened cart dropdown
+2026-01-12 15:11:14 [main] INFO  Testcases.TC_006_End_To_End - Clicked Checkout button
+2026-01-12 15:11:17 [main] INFO  Testcases.TC_006_End_To_End - Entered Billing details
+2026-01-12 15:11:20 [main] INFO  Testcases.TC_006_End_To_End - Selected Country India (ignore case)
+2026-01-12 15:11:21 [main] INFO  Testcases.TC_006_End_To_End - Selected State Haryana (ignore case)
+2026-01-12 15:11:23 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue Billing
+2026-01-12 15:11:24 [main] INFO  Testcases.TC_006_End_To_End - Continued Delivery Details
+2026-01-12 15:11:26 [main] INFO  Testcases.TC_006_End_To_End - Entered delivery comment
+2026-01-12 15:11:27 [main] INFO  Testcases.TC_006_End_To_End - Continued Delivery Method
+2026-01-12 15:11:29 [main] INFO  Testcases.TC_006_End_To_End - Accepted Terms & Continued Payment
+2026-01-12 15:11:32 [main] INFO  Testcases.TC_006_End_To_End - Clicked Confirm Order
+2026-01-12 15:11:35 [main] INFO  Testcases.TC_006_End_To_End - ********** Order Placed Successfully **********
+2026-01-12 15:11:35 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Finished **********
+2026-01-12 15:36:06 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 15:36:08 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Started **********
+2026-01-12 15:36:08 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 15:36:09 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 15:36:11 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 15:36:13 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 15:36:14 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 15:36:15 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 15:36:16 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: IhNbps@gmail.com
+2026-01-12 15:36:16 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 9189438021
+2026-01-12 15:36:17 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 15:36:18 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 15:36:19 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 15:36:21 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 15:36:23 [main] INFO  Testcases.TC_006_End_To_End - Registration successful – Test Passed
+2026-01-12 15:36:23 [main] INFO  Testcases.TC_006_End_To_End - ********** Registration Completed **********
+2026-01-12 15:36:23 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Logout / Continue to Login
+2026-01-12 15:36:29 [main] INFO  Testcases.TC_006_End_To_End - Logged in successfully with registered credentials
+2026-01-12 15:36:31 [main] INFO  Testcases.TC_006_End_To_End - Entered product in search box
+2026-01-12 15:36:32 [main] INFO  Testcases.TC_006_End_To_End - Clicked search button
+2026-01-12 15:36:33 [main] INFO  Testcases.TC_006_End_To_End - Product HP LP3065 is available
+2026-01-12 15:36:36 [main] INFO  Testcases.TC_006_End_To_End - Entered quantity 1
+2026-01-12 15:36:36 [main] INFO  Testcases.TC_006_End_To_End - Clicked Add to Cart
+2026-01-12 15:36:46 [main] ERROR Testcases.TC_006_End_To_End - Exception occurred in End To End test: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(),'Success: You have added ')]"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fc6b53d57339cb543f81bdf2454c1143, findElement {using=xpath, value=//div[contains(text(),'Success: You have added ')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53401}, goog:processID: 9784, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53401/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fc6b53d57339cb543f81bdf2454c1143
+2026-01-12 15:44:25 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 15:44:27 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Started **********
+2026-01-12 15:44:27 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 15:44:29 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 15:44:30 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 15:44:32 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 15:44:33 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 15:44:34 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 15:44:35 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: KFIvpU@gmail.com
+2026-01-12 15:44:36 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 6737638999
+2026-01-12 15:44:37 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 15:44:38 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 15:44:38 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 15:44:40 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 15:44:42 [main] INFO  Testcases.TC_006_End_To_End - Registration successful – Test Passed
+2026-01-12 15:44:42 [main] INFO  Testcases.TC_006_End_To_End - ********** Registration Completed **********
+2026-01-12 15:44:43 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Logout / Continue to Login
+2026-01-12 15:44:48 [main] INFO  Testcases.TC_006_End_To_End - Logged in successfully with registered credentials
+2026-01-12 15:44:51 [main] INFO  Testcases.TC_006_End_To_End - Entered product in search box
+2026-01-12 15:44:52 [main] INFO  Testcases.TC_006_End_To_End - Clicked search button
+2026-01-12 15:44:53 [main] INFO  Testcases.TC_006_End_To_End - Product HP LP3065 is available
+2026-01-12 15:44:56 [main] INFO  Testcases.TC_006_End_To_End - Entered quantity 1
+2026-01-12 15:44:56 [main] INFO  Testcases.TC_006_End_To_End - Clicked Add to Cart
+2026-01-12 15:45:06 [main] ERROR Testcases.TC_006_End_To_End - Exception occurred in End To End test: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(),'Success: You have added ')]"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cfc58ab674bbb2f0aea79dc3a4ab20f4, findElement {using=xpath, value=//div[contains(text(),'Success: You have added ')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53454}, goog:processID: 19948, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53454/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cfc58ab674bbb2f0aea79dc3a4ab20f4
+2026-01-12 15:48:01 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 15:48:02 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Started **********
+2026-01-12 15:48:03 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 15:48:04 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 15:48:06 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 15:48:07 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 15:48:08 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 15:48:09 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 15:48:10 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: deQEiu@gmail.com
+2026-01-12 15:48:11 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 3224531486
+2026-01-12 15:48:11 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 15:48:12 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 15:48:13 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 15:48:15 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 15:48:17 [main] INFO  Testcases.TC_006_End_To_End - Registration successful – Test Passed
+2026-01-12 15:48:17 [main] INFO  Testcases.TC_006_End_To_End - ********** Registration Completed **********
+2026-01-12 15:48:17 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Logout / Continue to Login
+2026-01-12 15:48:22 [main] INFO  Testcases.TC_006_End_To_End - Logged in successfully with registered credentials
+2026-01-12 15:48:24 [main] INFO  Testcases.TC_006_End_To_End - Entered product in search box
+2026-01-12 15:48:25 [main] INFO  Testcases.TC_006_End_To_End - Clicked search button
+2026-01-12 15:48:27 [main] INFO  Testcases.TC_006_End_To_End - Product HP LP3065 is available
+2026-01-12 15:48:29 [main] INFO  Testcases.TC_006_End_To_End - Entered quantity 1
+2026-01-12 15:48:30 [main] INFO  Testcases.TC_006_End_To_End - Clicked Add to Cart
+2026-01-12 15:48:30 [main] INFO  Testcases.TC_006_End_To_End - Add to cart success message verified
+2026-01-12 15:48:32 [main] INFO  Testcases.TC_006_End_To_End - Opened cart dropdown
+2026-01-12 15:48:36 [main] INFO  Testcases.TC_006_End_To_End - Clicked Checkout button
+2026-01-12 15:48:38 [main] INFO  Testcases.TC_006_End_To_End - Entered Billing details
+2026-01-12 15:48:41 [main] INFO  Testcases.TC_006_End_To_End - Selected Country India (ignore case)
+2026-01-12 15:48:42 [main] INFO  Testcases.TC_006_End_To_End - Selected State Haryana (ignore case)
+2026-01-12 15:48:43 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue Billing
+2026-01-12 15:48:45 [main] INFO  Testcases.TC_006_End_To_End - Continued Delivery Details
+2026-01-12 15:48:47 [main] INFO  Testcases.TC_006_End_To_End - Entered delivery comment
+2026-01-12 15:48:47 [main] INFO  Testcases.TC_006_End_To_End - Continued Delivery Method
+2026-01-12 15:48:49 [main] INFO  Testcases.TC_006_End_To_End - Accepted Terms & Continued Payment
+2026-01-12 15:48:52 [main] INFO  Testcases.TC_006_End_To_End - Clicked Confirm Order
+2026-01-12 15:48:55 [main] INFO  Testcases.TC_006_End_To_End - ********** Order Placed Successfully **********
+2026-01-12 15:48:55 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Finished **********
+2026-01-12 16:10:13 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 16:10:15 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Started **********
+2026-01-12 16:10:15 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 16:10:17 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 16:10:18 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 16:10:20 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 16:10:21 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 16:10:22 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 16:10:22 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: GrYOWO@gmail.com
+2026-01-12 16:10:23 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 8304933772
+2026-01-12 16:10:24 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 16:10:25 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 16:10:26 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 16:10:27 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 16:10:29 [main] INFO  Testcases.TC_006_End_To_End - Registration successful – Test Passed
+2026-01-12 16:10:30 [main] INFO  Testcases.TC_006_End_To_End - ********** Registration Completed **********
+2026-01-12 16:10:30 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Logout / Continue to Login
+2026-01-12 16:10:35 [main] INFO  Testcases.TC_006_End_To_End - Logged in successfully with registered credentials
+2026-01-12 16:10:37 [main] INFO  Testcases.TC_006_End_To_End - Entered product in search box
+2026-01-12 16:10:38 [main] INFO  Testcases.TC_006_End_To_End - Clicked search button
+2026-01-12 16:10:40 [main] INFO  Testcases.TC_006_End_To_End - Product HP LP3065 is available
+2026-01-12 16:10:42 [main] INFO  Testcases.TC_006_End_To_End - Entered quantity 1
+2026-01-12 16:10:42 [main] INFO  Testcases.TC_006_End_To_End - Clicked Add to Cart
+2026-01-12 16:10:43 [main] INFO  Testcases.TC_006_End_To_End - Add to cart success message verified
+2026-01-12 16:10:44 [main] INFO  Testcases.TC_006_End_To_End - Opened Shopping-cart
+2026-01-12 16:10:56 [main] ERROR Testcases.TC_006_End_To_End - Exception occurred in End To End test: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='content']/div[2]/div/table//strong[text()='Total:']//following::td"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4659520e2371c88096f86d02db2ae978, findElement {value=//*[@id='content']/div[2]/div/table//strong[text()='Total:']//following::td, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53729}, goog:processID: 10664, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53729/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4659520e2371c88096f86d02db2ae978
+2026-01-12 16:13:22 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 16:13:25 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Started **********
+2026-01-12 16:13:25 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 16:13:26 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 16:13:28 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 16:13:29 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 16:13:31 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 16:13:31 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 16:13:32 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: WkVdpK@gmail.com
+2026-01-12 16:13:33 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 4862880842
+2026-01-12 16:13:34 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 16:13:35 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 16:13:35 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 16:13:37 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 16:13:39 [main] INFO  Testcases.TC_006_End_To_End - Registration successful – Test Passed
+2026-01-12 16:13:39 [main] INFO  Testcases.TC_006_End_To_End - ********** Registration Completed **********
+2026-01-12 16:13:40 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Logout / Continue to Login
+2026-01-12 16:13:44 [main] INFO  Testcases.TC_006_End_To_End - Logged in successfully with registered credentials
+2026-01-12 16:13:47 [main] INFO  Testcases.TC_006_End_To_End - Entered product in search box
+2026-01-12 16:13:48 [main] INFO  Testcases.TC_006_End_To_End - Clicked search button
+2026-01-12 16:13:49 [main] INFO  Testcases.TC_006_End_To_End - Product HP LP3065 is available
+2026-01-12 16:13:52 [main] INFO  Testcases.TC_006_End_To_End - Entered quantity 1
+2026-01-12 16:13:52 [main] INFO  Testcases.TC_006_End_To_End - Clicked Add to Cart
+2026-01-12 16:13:52 [main] ERROR Testcases.TC_006_End_To_End - Exception occurred in End To End test: stale element reference: stale element not found in the current frame
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [db88614fd869e200650cdd199503d8e5, isElementDisplayed {id=f.2CE43C01C5C53C4631408718A67D465B.d.221623E03DA7C55CCFE827DA147D65A7.e.187}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53849}, goog:processID: 18944, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53849/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (db88614fd869e200650cdd199503d8e5)] -> xpath: //div[contains(text(),'Success: You have added ')]]
+Session ID: db88614fd869e200650cdd199503d8e5
+2026-01-12 16:17:51 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 16:17:53 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Started **********
+2026-01-12 16:17:53 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 16:17:54 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 16:17:56 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 16:17:58 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 16:17:59 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 16:17:59 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 16:18:00 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: khZeZu@gmail.com
+2026-01-12 16:18:01 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 6898034923
+2026-01-12 16:18:02 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 16:18:03 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 16:18:03 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 16:18:05 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 16:18:07 [main] INFO  Testcases.TC_006_End_To_End - Registration successful – Test Passed
+2026-01-12 16:18:07 [main] INFO  Testcases.TC_006_End_To_End - ********** Registration Completed **********
+2026-01-12 16:18:08 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Logout / Continue to Login
+2026-01-12 16:18:12 [main] INFO  Testcases.TC_006_End_To_End - Logged in successfully with registered credentials
+2026-01-12 16:18:15 [main] INFO  Testcases.TC_006_End_To_End - Entered product in search box
+2026-01-12 16:18:16 [main] INFO  Testcases.TC_006_End_To_End - Clicked search button
+2026-01-12 16:18:17 [main] INFO  Testcases.TC_006_End_To_End - Product HP LP3065 is available
+2026-01-12 16:18:20 [main] INFO  Testcases.TC_006_End_To_End - Entered quantity 1
+2026-01-12 16:18:20 [main] INFO  Testcases.TC_006_End_To_End - Clicked Add to Cart
+2026-01-12 16:18:20 [main] INFO  Testcases.TC_006_End_To_End - Add to cart success message verified
+2026-01-12 16:18:22 [main] INFO  Testcases.TC_006_End_To_End - Opened Shopping-cart
+2026-01-12 16:18:27 [main] INFO  Testcases.TC_006_End_To_End - Clicked Checkout button
+2026-01-12 16:18:30 [main] INFO  Testcases.TC_006_End_To_End - Entered Billing details
+2026-01-12 16:18:33 [main] INFO  Testcases.TC_006_End_To_End - Selected Country India (ignore case)
+2026-01-12 16:18:34 [main] INFO  Testcases.TC_006_End_To_End - Selected State Haryana (ignore case)
+2026-01-12 16:18:35 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue Billing
+2026-01-12 16:18:37 [main] INFO  Testcases.TC_006_End_To_End - Continued Delivery Details
+2026-01-12 16:18:38 [main] INFO  Testcases.TC_006_End_To_End - Entered delivery comment
+2026-01-12 16:18:39 [main] INFO  Testcases.TC_006_End_To_End - Continued Delivery Method
+2026-01-12 16:18:41 [main] INFO  Testcases.TC_006_End_To_End - Accepted Terms & Continued Payment
+2026-01-12 16:18:44 [main] INFO  Testcases.TC_006_End_To_End - Clicked Confirm Order
+2026-01-12 16:18:47 [main] INFO  Testcases.TC_006_End_To_End - ********** Order Placed Successfully **********
+2026-01-12 16:18:47 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Finished **********
+2026-01-12 16:20:14 [main] INFO  Testcases.TC_006_End_To_End - Running tests on LOCAL machine
+2026-01-12 16:20:16 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Started **********
+2026-01-12 16:20:16 [main] INFO  Testcases.TC_006_End_To_End - Homepage object created
+2026-01-12 16:20:18 [main] INFO  Testcases.TC_006_End_To_End - Clicked on My Account
+2026-01-12 16:20:19 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Register option
+2026-01-12 16:20:21 [main] INFO  Testcases.TC_006_End_To_End - Registration page object created
+2026-01-12 16:20:22 [main] INFO  Testcases.TC_006_End_To_End - Entered First Name
+2026-01-12 16:20:23 [main] INFO  Testcases.TC_006_End_To_End - Entered Last Name
+2026-01-12 16:20:23 [main] INFO  Testcases.TC_006_End_To_End - Entered Email: vjlATF@gmail.com
+2026-01-12 16:20:24 [main] INFO  Testcases.TC_006_End_To_End - Entered Telephone: 0939938578
+2026-01-12 16:20:25 [main] INFO  Testcases.TC_006_End_To_End - Entered Password and Confirm Password
+2026-01-12 16:20:26 [main] INFO  Testcases.TC_006_End_To_End - Selected Newsletter: NO
+2026-01-12 16:20:26 [main] INFO  Testcases.TC_006_End_To_End - Accepted Privacy Policy
+2026-01-12 16:20:28 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue button
+2026-01-12 16:20:30 [main] INFO  Testcases.TC_006_End_To_End - Registration successful – Test Passed
+2026-01-12 16:20:30 [main] INFO  Testcases.TC_006_End_To_End - ********** Registration Completed **********
+2026-01-12 16:20:31 [main] INFO  Testcases.TC_006_End_To_End - Clicked on Logout / Continue to Login
+2026-01-12 16:20:35 [main] INFO  Testcases.TC_006_End_To_End - Logged in successfully with registered credentials
+2026-01-12 16:20:37 [main] INFO  Testcases.TC_006_End_To_End - Entered product in search box
+2026-01-12 16:20:38 [main] INFO  Testcases.TC_006_End_To_End - Clicked search button
+2026-01-12 16:20:40 [main] INFO  Testcases.TC_006_End_To_End - Product HP LP3065 is available
+2026-01-12 16:20:42 [main] INFO  Testcases.TC_006_End_To_End - Entered quantity 1
+2026-01-12 16:20:42 [main] INFO  Testcases.TC_006_End_To_End - Clicked Add to Cart
+2026-01-12 16:20:43 [main] INFO  Testcases.TC_006_End_To_End - Add to cart success message verified
+2026-01-12 16:20:44 [main] INFO  Testcases.TC_006_End_To_End - Opened Shopping-cart
+2026-01-12 16:20:49 [main] INFO  Testcases.TC_006_End_To_End - validation of the amount
+2026-01-12 16:20:49 [main] INFO  Testcases.TC_006_End_To_End - Clicked Checkout button
+2026-01-12 16:20:52 [main] INFO  Testcases.TC_006_End_To_End - Entered Billing details
+2026-01-12 16:20:55 [main] INFO  Testcases.TC_006_End_To_End - Selected Country India (ignore case)
+2026-01-12 16:20:56 [main] INFO  Testcases.TC_006_End_To_End - Selected State Haryana (ignore case)
+2026-01-12 16:20:57 [main] INFO  Testcases.TC_006_End_To_End - Clicked Continue Billing
+2026-01-12 16:20:59 [main] INFO  Testcases.TC_006_End_To_End - Continued Delivery Details
+2026-01-12 16:21:01 [main] INFO  Testcases.TC_006_End_To_End - Entered delivery comment
+2026-01-12 16:21:02 [main] INFO  Testcases.TC_006_End_To_End - Continued Delivery Method
+2026-01-12 16:21:03 [main] INFO  Testcases.TC_006_End_To_End - Accepted Terms & Continued Payment
+2026-01-12 16:21:06 [main] INFO  Testcases.TC_006_End_To_End - Clicked Confirm Order
+2026-01-12 16:21:09 [main] INFO  Testcases.TC_006_End_To_End - ********** Order Placed Successfully **********
+2026-01-12 16:21:09 [main] INFO  Testcases.TC_006_End_To_End - ********** TC_006_End_To_End Finished **********

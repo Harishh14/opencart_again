@@ -21,6 +21,12 @@ WebElement Reg;
 @FindBy(xpath="//a[text()='Login']")	
 WebElement Logg;
 
+@FindBy(xpath="//input[@placeholder='Search']")
+WebElement srcbox;
+
+@FindBy(xpath="//button[@class='btn btn-default btn-lg']")
+WebElement srcbtn;
+
 public void clickmyacc() {
 	macc.click();
 }
@@ -32,7 +38,16 @@ public void clickreg() {
 public void clicklog() {
 	Logg.click();
 }
-	
+
+public void searchitem(String pName) {
+	srcbox.clear();
+	srcbox.sendKeys(pName);
+
+}
+
+public void searchbtn() {
+	srcbtn.click();
+}
 	
 	
 }

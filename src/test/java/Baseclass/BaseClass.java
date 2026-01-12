@@ -107,7 +107,7 @@ public class BaseClass {
         getDriver().manage().window().maximize();
     }
 
-    @AfterClass(groups = { "Reggression", "Master", "Sanity", "DataDriven" })
+    @AfterClass(groups = { "Reggression",  "Sanity", "DataDriven" })
     public void teardown() {
         if (getDriver() != null) {
             getDriver().quit();
